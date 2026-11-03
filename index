@@ -1,0 +1,11 @@
+q1: Write a program to implement Additive cipher
+q2: Write a program to implement Ceasar cipher
+q3: Write a program to implement shift cipher
+q4: Write a program to implement Affine cipher
+q5: Write a program to implement Autokey cipher
+q6: Write a program to implement Playfair cipher
+q7: Write a program to implement Vigenere cipher
+q8: Write a program to implement Hill cipher
+q9: Write a program to implement Character Count framing technique.
+q10: Write a program to implement Byte Stuffing (Character Stuffing) framing technique.
+q11: Write a program to implement Bit Stuffing framing technique.
